@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "exam",
+			"path": "../../../exam"
+		},
+		{
+			"name": "basics",
+			"path": "../basics"
+		},
+		{
+			"name": "css",
+			"path": "../css"
+		},
+		{
+			"name": "datatypes",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
